@@ -18,6 +18,14 @@ This project is aim to provide a high performance, easy-to-use, programming lang
 
 ## Install
 
+Prepare:
+
+​	`sudo apt-get install golang`
+
+​    `export GOPATH=pwd``
+
+
+
 To start using gorse, install Go and run `go get`:
 
 ```bash
